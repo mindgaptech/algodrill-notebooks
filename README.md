@@ -13,7 +13,8 @@ uv venv .venv && uv pip install -p .venv vectorbt yfinance pandas alpaca-py jupy
 
 | Notebook | Companion page |
 |---|---|
-| (populated as walkthroughs are converted) | https://algodrill.app/code |
+| [first_trading_bot.ipynb](notebooks/first_trading_bot.ipynb) | https://algodrill.app/code/first-trading-bot |
+| (remaining 6 walkthroughs to be converted) | https://algodrill.app/code |
 
 Nothing here is investment advice. Backtests are historical simulations with known limitations —
 see [algodrill.app/backtesting-pitfalls](https://algodrill.app/backtesting-pitfalls).
